@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Base de datos</string>
+
+    <string name="id_A">Id</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidop">Apellido P</string>
+    <string name="apellidom">Apellido M</string>
+    <string name="telefono">Telefono</string>
+
+    <string name="alta">Registrar</string>
+    <string name="baja">Eliminar</string>
+    <string name="consulta">Consultar</string>
+    <string name="modificar">Modificar</string>
+    <string name="limpiar">Limpiar</string>
+
+</resources>
